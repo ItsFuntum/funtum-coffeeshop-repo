@@ -29,7 +29,7 @@
       "changelog": "2.0.0 - full mod remake"
     },
     {
-      "id": "splatoon",
+      "id": "splatoonplus",
       "name": "Splatoon+",
       "type": "mod",
       "version": "1.3.2",
@@ -67,7 +67,7 @@
       "type": "mod",
       "version": "1.4.0",
       "author": "TOKEN-CANARY",
-      "description": "WARNING: This mod might break some textures in the maps! Changes every (online multiplayer) map and most (story mode) maps to have sunset lighting/skybox. ( The only story mode maps that are not affected by this mod are: Inkvisible Avenues, Shifting Splatforms, Tubmling Splatforms, Undeniable Flying Object, Unwelcome Flying Object and Unavoidable Flying Object ). This is completely online safe and does not ban you from Nintendo Network/online play.",
+      "description": "WARNING: This mod might break some textures in the maps! Changes every (online multiplayer) map and most (story mode) maps to have sunset lighting/skybox.",
       "thumbnail": "https://images.gamebanana.com/img/ss/mods/6312a64e03a2b.jpg",
       "screenshots": [
         "https://images.gamebanana.com/img/ss/mods/6312a64e03a2b.jpg",
