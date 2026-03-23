@@ -16,3 +16,4 @@ CoffeeShop repository for mods that Funtum likes and for others to enjoy!
 | New Super Mario Bros. U | NSMBU but the floor is lava | BowManakin | [![](https://gamebanana.com/mods/embeddables/352599?type=large)](https://gamebanana.com/mods/352599) |
 | Splatoon | Splatoon+ v1.3.2 | Delus1on_L | [![](https://gamebanana.com/mods/embeddables/570597?type=large)](https://gamebanana.com/mods/570597) |
 | Splatoon | Splatoon: Squidward Expansion v2 | kalomaze | [![](https://gamebanana.com/mods/embeddables/250471?type=large)](https://gamebanana.com/mods/250471) |
+| Splatoon | Sunset Maps | TOKEN-CANARY | [![](https://gamebanana.com/mods/embeddables/399722?type=large)](https://gamebanana.com/mods/399722) |
