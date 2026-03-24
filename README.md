@@ -1,11 +1,33 @@
 # Funtum's CoffeeShop Repository
 
-CoffeeShop repository for mods that Funtum likes and for others to enjoy!
+![GitHub last commit](https://img.shields.io/github/last-commit/ItsFuntum/funtum-coffeeshop-repo)
+![GitHub stars](https://img.shields.io/github/stars/ItsFuntum/funtum-coffeeshop-repo)
+
+CoffeeShop repository containing mods curated by Funtum.
+
+## Adding the repository
+1. Navigate to `SD:/wiiu/apps/coffeeshop/` and create `config.json` in the directory, or edit the file if it already exists.
+2. Open the file and add the following:
+
+```json
+{
+  "repos": [
+    "https://raw.githubusercontent.com/ItsFuntum/funtum-coffeeshop-repo/main/repo.json"
+  ]
+}
+```
+> [!NOTE]
+> If you already have repositories added, insert  
+> `"https://raw.githubusercontent.com/ItsFuntum/funtum-coffeeshop-repo/main/repo.json"`  
+> inside the `"repos"` array (add a comma *before or after it as needed* to keep valid JSON).
+
+## Mods
+List of mods included in this repository:
 
 > [!NOTE]
-> No modifications have been made to the mod code. However, the file structure may have been changed to work with SDCafiine. All rights go to the mod creators.
+> No changes have been made to the original mod code. However, the file structure may have been changed to work with SDCafiine. All rights go to the mod creators.
 
-| Game | Name | Author | GameBanana page |
+| Game | Name | Author | Preview |
 | --- | --- | --- | --- |
 | Mario Kart 8 | Squidward joins Mario Kart! | kalomaze | [![](https://gamebanana.com/mods/embeddables/172308?type=large)](https://gamebanana.com/mods/172308) |
 | Mario Kart 8 | Spongebob joins Mario Kart! | kalomaze | [![](https://gamebanana.com/mods/embeddables/172446?type=large)](https://gamebanana.com/mods/172446) |
